@@ -13,5 +13,10 @@
   "dependencies": {
     "dat.gui": "^0.7.9",
     "three": "^0.187.0"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "path-browserify": "^1.0.1",
+    "process": "^0.11.10"
   }
 }
